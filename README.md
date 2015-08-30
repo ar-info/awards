@@ -1,6 +1,6 @@
 # awards
 
-##RDA award list converter for AALog 3.2
+##RDA districts list converter for AALog 3.2
 
 Tested with AALog 3.2.0.1168
 
