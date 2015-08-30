@@ -4,7 +4,7 @@ s_subdivision_exp = /^([A-Z][A-Z]-[\d][\d])\s+(.+)/;
 var ForReading = 1, ForWriting = 2;
 
 
-WScript.Echo("RDA File Converter Version 1.0 Copyright (C) 2015 Alexey Raevsky RG3AR");
+WScript.Echo("RDA File Converter Version 1.0 Copyright (C) 2015 RG3AR");
 
 objArgs = WScript.Arguments;
 
